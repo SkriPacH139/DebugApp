@@ -1,0 +1,7 @@
+D:\Learn\PW_11_C#\bin\Debug\PW_11_C#.exe.config
+D:\Learn\PW_11_C#\bin\Debug\PW_11_C#.exe
+D:\Learn\PW_11_C#\bin\Debug\PW_11_C#.pdb
+D:\Learn\PW_11_C#\obj\Debug\PW_11_C#.csproj.AssemblyReference.cache
+D:\Learn\PW_11_C#\obj\Debug\PW_11_C#.csproj.CoreCompileInputs.cache
+D:\Learn\PW_11_C#\obj\Debug\PW_11_C#.exe
+D:\Learn\PW_11_C#\obj\Debug\PW_11_C#.pdb
